@@ -21,22 +21,20 @@ UnIQ Insight is a lightweight AI bot designed to enhance productivity and engage
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Tonyflam/UnIQ-Insight-Bot.git
+```
 Install dependencies:
-bash
-Copy
-Edit
+```bash
 cd UnIQ-Insight-Bot  
-npm install  
+npm install
+```
 Set environment variables in a .env file:
-ini
-Copy
-Edit
-OPENAI_API_KEY=your-api-key  
+```ini
+OPENAI_API_KEY=your-api-key
+``` 
 Run the bot locally:
-bash
-Copy
-Edit
-npm start  
+```bash
+npm start
+```
 ⚙️ How It Works
 Message Hook: The bot listens for new messages in OpenChat groups.
 Summarization: It analyzes chat threads and generates concise summaries.
