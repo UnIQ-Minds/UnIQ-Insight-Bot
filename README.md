@@ -20,7 +20,7 @@ UnIQ Insight is a lightweight AI bot designed to enhance productivity and engage
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Tonyflam/UnIQ-Insight-Bot.git
-```
+
 Install dependencies:
 ```bash
   cd UnIQ-Insight-Bot  
