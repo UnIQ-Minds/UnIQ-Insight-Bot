@@ -22,15 +22,17 @@ UnIQ Insight is a lightweight AI bot designed to enhance productivity and engage
    git clone https://github.com/Tonyflam/UnIQ-Insight-Bot.git
 
 Install dependencies:
-bashCopycd UnIQ-Insight-Bot  
-npm install
+```bash
+  cd UnIQ-Insight-Bot  
+  npm install
 
 Set environment variables in a .env file:
-CopyOPENAI_API_KEY=your-api-key  
-PORT=3000
+ ```OPENAI_API_KEY=your-api-key  
+    PORT=3000
 
 Run the bot locally:
-bashCopynpm run dev
+```bash
+npm run dev
 
 
 ⚙️ How It Works
